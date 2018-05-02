@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  grafana:
+  - created: 2018-05-02T12:29:06.545858957-07:00
+    description: The leading tool for querying and visualizing time series and metrics.
+    digest: e3901ba647e836094e229b744c10f502be30ba3391908886f7fb694736c1ca43
+    icon: https://raw.githubusercontent.com/grafana/grafana/master/public/img/logo_transparent_400x.png
+    name: grafana
+    urls:
+    - grafana-2.0.0.tgz
+    version: 2.0.0
+generated: 2018-05-02T12:29:06.538167116-07:00

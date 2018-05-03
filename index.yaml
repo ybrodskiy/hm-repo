@@ -1,7 +1,7 @@
 apiVersion: v1
 entries:
   grafana:
-  - created: 2018-05-02T16:13:35.514885034-07:00
+  - created: 2018-05-02T17:14:14.614470203-07:00
     description: The leading tool for querying and visualizing time series and metrics.
     digest: e3901ba647e836094e229b744c10f502be30ba3391908886f7fb694736c1ca43
     icon: https://raw.githubusercontent.com/grafana/grafana/master/public/img/logo_transparent_400x.png
@@ -10,8 +10,17 @@ entries:
     - grafana-2.0.0.tgz
     version: 2.0.0
   jenkins:
+  - appVersion: "2.113"
+    created: 2018-05-02T17:14:14.619888502-07:00
+    description: Open source continuous integration server.
+    digest: 19c3a6920b38cc678a41e924903cee2e31103b2149f07023e9e4d3e6d527fcad
+    icon: https://wiki.jenkins-ci.org/download/attachments/2916393/logo.png
+    name: jenkins
+    urls:
+    - jenkins-2.8.3.tgz
+    version: 2.8.3
   - appVersion: "2.114"
-    created: 2018-05-02T16:13:35.518447078-07:00
+    created: 2018-05-02T17:14:14.618382074-07:00
     description: Open source continuous integration server.
     digest: 5019747627f3bfa930a4454085108f3920732e3e1195a1dffa3fb4bde8187a32
     icon: https://wiki.jenkins-ci.org/download/attachments/2916393/logo.png
@@ -20,7 +29,7 @@ entries:
     - jenkins-2.8.2.tgz
     version: 2.8.2
   - appVersion: "2.114"
-    created: 2018-05-02T16:13:35.516835457-07:00
+    created: 2018-05-02T17:14:14.616456448-07:00
     description: Open source continuous integration server.
     digest: 629a99d0c9c48aab742b2fc3c9967832b0e17ed6b5349fda075bbcffeb95fa36
     icon: https://wiki.jenkins-ci.org/download/attachments/2916393/logo.png
@@ -28,4 +37,4 @@ entries:
     urls:
     - jenkins-2.8.1.tgz
     version: 2.8.1
-generated: 2018-05-02T16:13:35.509355998-07:00
+generated: 2018-05-02T17:14:14.610629468-07:00
